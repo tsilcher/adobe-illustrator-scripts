@@ -1,6 +1,6 @@
 /*!
  * Mac App Icon Export Script v0.1 for Adobe Illustrator
- * https://gitlab.com/tmygn/adobe-illustrator-scripts
+ * https://github.com/tsilcher/adobe-illustrator-scripts/
  *
  * Copyright 2018 - Thomas A. Silcher
  * Released under the GNU GPL v3 license
