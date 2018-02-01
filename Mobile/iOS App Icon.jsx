@@ -2,14 +2,14 @@
  * iOS App Icon Export Script v0.1 for Adobe Illustrator
  * https://gitlab.com/tmygn/adobe-illustrator-scripts
  *
- * Copyright 2017 - Thomas A. Silcher
- * Released under the MIT license
- * https://opensource.org/licenses/MIT
+ * Copyright 2018 - Thomas A. Silcher
+ * Released under the GNU GPL v3 license
+ * http://www.gnu.org/licenses/gpl.txt
  *
- * Date: Dec 11th 2017
+ * Date: Feb 1st 2018
  */
 
-/* This script required an artboard to be 40x40 px in size. */
+/* This script requires an artboard to be 40x40 px in size. */
 var document = app.activeDocument;
 var folder = Folder.selectDialog();
 var artboard;

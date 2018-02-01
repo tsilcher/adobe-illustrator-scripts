@@ -10,7 +10,7 @@
  */
 
 
-/* This script required an artboard to be 16x16 px in size. */
+/* This script requires an artboard to be 16x16 px in size. */
 var document = app.activeDocument;
 var folder = Folder.selectDialog();
 var artboard;
