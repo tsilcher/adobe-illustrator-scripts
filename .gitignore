@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDouble
+.LSOverride
+ehthumbs.db
+Thumbs.db
+
+# Default Adobe Illustrator scripts
+ExportDocsAsFlash.jsx
+ImageTracing.jsx
+SaveDocsAsPDF.jsx
+SaveDocsAsSVG.jsx
+
